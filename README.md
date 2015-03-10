@@ -4,20 +4,6 @@ Authenticator interface for Go HTTP apps.
 
 # Usage
 
-```go
-package main
+See [godoc](http://godoc.org/github.com/heroku/authenticater) or [examples](https://github.com/heroku/authenticater/tree/master/examples)
 
-import (
-  "github.com/heroku/authenticater"
-  "net/http"
-  )
-
-func main() {
-  auth := authenticater.NewBasicAuth()
-
-  h
-
-}
-
-```
 
